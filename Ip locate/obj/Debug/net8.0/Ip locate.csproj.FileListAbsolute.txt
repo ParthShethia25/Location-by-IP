@@ -1,0 +1,17 @@
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\Ip locate.csproj.AssemblyReference.cache
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\Ip locate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\Ip locate.AssemblyInfoInputs.cache
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\Ip locate.AssemblyInfo.cs
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\Ip locate.csproj.CoreCompileInputs.cache
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\bin\Debug\net8.0\Ip locate.exe
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\bin\Debug\net8.0\Ip locate.deps.json
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\bin\Debug\net8.0\Ip locate.runtimeconfig.json
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\bin\Debug\net8.0\Ip locate.dll
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\bin\Debug\net8.0\Ip locate.pdb
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\Ip locate.csproj.Up2Date
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\Ip locate.dll
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\refint\Ip locate.dll
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\Ip locate.pdb
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\Ip locate.genruntimeconfig.cache
+C:\Users\parth\Desktop\TOOLS\scripts\Ip locate\obj\Debug\net8.0\ref\Ip locate.dll

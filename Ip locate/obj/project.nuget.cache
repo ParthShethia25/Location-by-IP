@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ycBhvwTtrJMuTSP5F9dollVaO/QFpULsNrCtU5QkX0cpRLFzlRrdoh49q8KtiquOAgsihs7DOY2EyKtclYJhVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parth\\Desktop\\TOOLS\\scripts\\Ip locate\\Ip locate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parth\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
